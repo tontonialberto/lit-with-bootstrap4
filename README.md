@@ -1,5 +1,5 @@
 # lit-with-bootstrap4
-An example of how to use createRenderRoot() to leverage Bootstrap 4 inside a lit element.
+An example of how to use `createRenderRoot()` to leverage Bootstrap 4 inside a lit element.
 
 # Build and run
 - `npm install`
