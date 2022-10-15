@@ -5,3 +5,6 @@ An example of how to use `createRenderRoot()` to leverage Bootstrap 4 inside a l
 - `npm install`
 - `npm run build`
 - `npm run serve`
+
+# Expected output
+![Expected output image](assets/expected-output.png)
